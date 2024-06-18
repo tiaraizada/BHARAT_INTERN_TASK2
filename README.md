@@ -1,3 +1,3 @@
 # temperature converter using html, css & javascript
 
-front
+front-end
